@@ -1,2 +1,0 @@
-# coursera-test
-COURSERA TEST REPOSITORIE
